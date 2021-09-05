@@ -1,0 +1,6 @@
+[book]
+authors = ["IrvingMg"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Irving's Blog"
